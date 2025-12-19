@@ -1,0 +1,41 @@
+[33mcommit 288d876c7a481ad085ba1e1c1d1c6714e28c1f34[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: ThiagoSevenn <thiagonevessc@gmail.com>
+Date:   Fri Dec 19 11:26:46 2025 -0300
+
+    Inserção de usuário com POST
+
+[33mcommit 6fad6fa5776e54f0abe9abda9ca6e95c72283eca[m
+Author: ThiagoSevenn <thiagonevessc@gmail.com>
+Date:   Fri Dec 19 11:08:36 2025 -0300
+
+    Obtendo um usuário por id
+
+[33mcommit 1895b6cfa9962e5ddbc56531e89219b7038e5ecd[m
+Author: ThiagoSevenn <thiagonevessc@gmail.com>
+Date:   Fri Dec 19 10:28:54 2025 -0300
+
+    Usando padrão DTO para retornar usuários
+
+[33mcommit 1ca3598b5965672073bd0db8a1a3e9c99b0ad1cd[m
+Author: ThiagoSevenn <thiagonevessc@gmail.com>
+Date:   Fri Dec 19 10:17:54 2025 -0300
+
+    Operação de instanciação da base de dados
+
+[33mcommit 538555c930bd931ff04db1038bb8771f7265c5ef[m
+Author: ThiagoSevenn <thiagonevessc@gmail.com>
+Date:   Fri Dec 19 10:03:52 2025 -0300
+
+    Conectando ao MongoDB com repository e service
+
+[33mcommit ce8d619a65e4a0f58e3d9a8dc4bb9f3dae8ca2c8[m
+Author: ThiagoSevenn <thiagonevessc@gmail.com>
+Date:   Fri Dec 19 08:25:34 2025 -0300
+
+    Entity User e REST funcionando
+
+[33mcommit 04873ae1ce84f610b7ddb286dbd6330ffcbca9cd[m
+Author: ThiagoSevenn <thiagonevessc@gmail.com>
+Date:   Thu Dec 18 10:12:13 2025 -0300
+
+    Inicialização do Spring Boot
